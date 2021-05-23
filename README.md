@@ -1,2 +1,2 @@
 # Pong_Js
-Pong game in javascript
+An easy pong game written in javascript
